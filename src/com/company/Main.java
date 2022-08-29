@@ -86,6 +86,7 @@ public class Main {
         if (bossDefenceType == heroesAttackType[i]){
           bossHealth = bossHealth + heroesDamage[i];
         }
+
       }
     }
   }
